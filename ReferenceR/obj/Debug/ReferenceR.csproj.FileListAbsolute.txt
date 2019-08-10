@@ -1,0 +1,43 @@
+C:\Users\szyka\source\repos\ReferenceR\ReferenceR\obj\Debug\MainWindow.g.cs
+C:\Users\szyka\source\repos\ReferenceR\ReferenceR\obj\Debug\App.g.cs
+C:\Users\szyka\source\repos\ReferenceR\ReferenceR\obj\Debug\ReferenceR_MarkupCompile.cache
+C:\Users\szyka\source\repos\ReferenceR\ReferenceR\obj\Debug\ReferenceR_MarkupCompile.lref
+C:\Users\szyka\source\repos\ReferenceR\ReferenceR\bin\Debug\ReferenceR.exe.config
+C:\Users\szyka\source\repos\ReferenceR\ReferenceR\bin\Debug\ReferenceR.exe
+C:\Users\szyka\source\repos\ReferenceR\ReferenceR\bin\Debug\ReferenceR.pdb
+C:\Users\szyka\source\repos\ReferenceR\ReferenceR\obj\Debug\MainWindow.baml
+C:\Users\szyka\source\repos\ReferenceR\ReferenceR\obj\Debug\ReferenceR.g.resources
+C:\Users\szyka\source\repos\ReferenceR\ReferenceR\obj\Debug\ReferenceR.Properties.Resources.resources
+C:\Users\szyka\source\repos\ReferenceR\ReferenceR\obj\Debug\ReferenceR.csproj.GenerateResource.Cache
+C:\Users\szyka\source\repos\ReferenceR\ReferenceR\obj\Debug\ReferenceR.csproj.CoreCompileInputs.cache
+C:\Users\szyka\source\repos\ReferenceR\ReferenceR\obj\Debug\ReferenceR.exe
+C:\Users\szyka\source\repos\ReferenceR\ReferenceR\obj\Debug\ReferenceR.pdb
+C:\Users\szyka\source\repos\ReferenceR\ReferenceR\obj\Debug\ReferenceR.csprojResolveAssemblyReference.cache
+C:\Users\szyka\source\repos\ReferenceR\ReferenceR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\szyka\source\repos\ReferenceR\ReferenceR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\szyka\source\repos\ReferenceR\ReferenceR\bin\Debug\ReferenceR.exe.manifest
+C:\Users\szyka\source\repos\ReferenceR\ReferenceR\bin\Debug\ReferenceR.application
+C:\Users\szyka\source\repos\ReferenceR\ReferenceR\obj\Debug\ReferenceR.exe.manifest
+C:\Users\szyka\source\repos\ReferenceR\ReferenceR\obj\Debug\ReferenceR.application
+G:\MEGA\Visual Studio Source Codes\ReferenceR\ReferenceR\bin\Debug\ReferenceR.exe.config
+G:\MEGA\Visual Studio Source Codes\ReferenceR\ReferenceR\bin\Debug\ReferenceR.exe.manifest
+G:\MEGA\Visual Studio Source Codes\ReferenceR\ReferenceR\bin\Debug\ReferenceR.application
+G:\MEGA\Visual Studio Source Codes\ReferenceR\ReferenceR\bin\Debug\ReferenceR.exe
+G:\MEGA\Visual Studio Source Codes\ReferenceR\ReferenceR\bin\Debug\ReferenceR.pdb
+G:\MEGA\Visual Studio Source Codes\ReferenceR\ReferenceR\bin\Debug\Newtonsoft.Json.dll
+G:\MEGA\Visual Studio Source Codes\ReferenceR\ReferenceR\bin\Debug\Newtonsoft.Json.xml
+G:\MEGA\Visual Studio Source Codes\ReferenceR\ReferenceR\obj\Debug\ReferenceR.csprojResolveAssemblyReference.cache
+G:\MEGA\Visual Studio Source Codes\ReferenceR\ReferenceR\obj\Debug\MainWindow.g.cs
+G:\MEGA\Visual Studio Source Codes\ReferenceR\ReferenceR\obj\Debug\App.g.cs
+G:\MEGA\Visual Studio Source Codes\ReferenceR\ReferenceR\obj\Debug\ReferenceR_MarkupCompile.cache
+G:\MEGA\Visual Studio Source Codes\ReferenceR\ReferenceR\obj\Debug\ReferenceR_MarkupCompile.lref
+G:\MEGA\Visual Studio Source Codes\ReferenceR\ReferenceR\obj\Debug\MainWindow.baml
+G:\MEGA\Visual Studio Source Codes\ReferenceR\ReferenceR\obj\Debug\ReferenceR.g.resources
+G:\MEGA\Visual Studio Source Codes\ReferenceR\ReferenceR\obj\Debug\ReferenceR.Properties.Resources.resources
+G:\MEGA\Visual Studio Source Codes\ReferenceR\ReferenceR\obj\Debug\ReferenceR.csproj.GenerateResource.cache
+G:\MEGA\Visual Studio Source Codes\ReferenceR\ReferenceR\obj\Debug\ReferenceR.csproj.CoreCompileInputs.cache
+G:\MEGA\Visual Studio Source Codes\ReferenceR\ReferenceR\obj\Debug\ReferenceR.exe.manifest
+G:\MEGA\Visual Studio Source Codes\ReferenceR\ReferenceR\obj\Debug\ReferenceR.application
+G:\MEGA\Visual Studio Source Codes\ReferenceR\ReferenceR\obj\Debug\ReferenceR.csproj.CopyComplete
+G:\MEGA\Visual Studio Source Codes\ReferenceR\ReferenceR\obj\Debug\ReferenceR.exe
+G:\MEGA\Visual Studio Source Codes\ReferenceR\ReferenceR\obj\Debug\ReferenceR.pdb
